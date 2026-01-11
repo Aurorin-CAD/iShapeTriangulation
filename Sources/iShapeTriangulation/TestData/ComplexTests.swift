@@ -9,7 +9,7 @@
 #if DEBUG
 
 import iGeometry
-import Darwin
+import Foundation
 
 public struct ComplexTests {
     

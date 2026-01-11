@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "iGeometry",
-        "repositoryURL": "https://github.com/iShape-Swift/iGeometry",
+        "repositoryURL": "https://github.com/Aurorin-CAD/iGeometry",
         "state": {
           "branch": null,
-          "revision": "4c9858aafeece5f0059e75f4759de2a570b7024d",
-          "version": "1.11.1"
+          "revision": "12726810db407c773fb9dc309bbff3ac316ba6f8",
+          "version": null
         }
       }
     ]

@@ -5,7 +5,7 @@
 //  Created by Nail Sharipov on 15.07.2020.
 //
 
-import Darwin
+import Foundation
 import iGeometry
 
 extension Delaunay {
